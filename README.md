@@ -1,2 +1,2 @@
-# portfolio4you
-ばっしーのポートフォリオサイト
+# MyPortfolio
+ポートフォリオサイト
